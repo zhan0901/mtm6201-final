@@ -59,12 +59,6 @@ All photographic content in this portfolio is original work:
 - Icons from Bootstrap Icons library
 - Fonts: System default fonts used
 
-## Setup Instructions
-
-1. Clone the repository
-2. Open `index.html` in your browser
-3. No additional setup required as the site uses CDN links for dependencies
-
 ## Future Improvements
 
 - Add image gallery functionality
